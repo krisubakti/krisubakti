@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Kris!
 <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/wave.gif" width="200px">
+
 🚀 Developer | 🖥️ Automation Enthusiast | 💡 Exploring Playwright & Python
 
 ![GitHub followers](https://img.shields.io/github/followers/krisubakti?style=social)
