@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Kris!
+🚀 Developer | 🖥️ Automation Enthusiast | 💡 Exploring Playwright & Python
 
-<!--
-**krisubakti/krisubakti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub followers](https://img.shields.io/github/followers/krisubakti?style=social)
+![GitHub stars](https://img.shields.io/github/stars/krisubakti?style=social)
 
-Here are some ideas to get you started:
+## 🔧 Skills & Tools
+- 🐍 Python | 🎭 Playwright | ⚙️ Automation
+- 🌐 Web Scraping | 💻 VPS | 🖥️ Termux & Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=krisubakti&show_icons=true&theme=dark)
+
+## 📫 Connect with Me
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mas_krisz)
+[![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/krisubakti)
