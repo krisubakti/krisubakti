@@ -25,4 +25,4 @@
 [![Telegram](https://img.shields.io/badge/Telegram-%232CA5E0.svg?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/krisubakti)
 
 ## 🚀 My Top Projects
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krisubakti&repo=PROJECT_NAME&theme=dark)](https://github.com/krisubakti/PROJECT_NAME)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krisubakti&repo=krisganteng&theme=dark)](https://github.com/krisubakti/krisganteng)
