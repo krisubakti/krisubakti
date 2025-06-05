@@ -1,4 +1,3 @@
-# Hi there! 👋 I'm Krisubakti
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=500&color=6A0DAD&center=true&vCenter=true&width=600&height=100&lines=Python+Developer+%F0%9F%90%8D;Node.js+Expert+%E2%9A%A1;Web+Developer+%F0%9F%8C%90;Blockchain+Builder+%F0%9F%94%97;Always+Coding+%F0%9F%9A%80" alt="Typing SVG" />
 </div>
